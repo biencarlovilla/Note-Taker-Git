@@ -11,10 +11,10 @@ This project is about generating a note taker app that uses node, express and de
   * [License](#license)
   * [Contributors](#Contributors)
   
- InUserStory
-AS A user, I want to be able to write and save notes
-   I WANT to be able to delete notes I've written before
-   SO THAT I can organize my thoughts and keep track of tasks I need to complete
+s#rStory
+AS A uaer, I want to be able to write and save notes
+   I want to be able to delete notes I've written before
+   sp that I can organize my thoughts and keep track of tasks I need to complete
 Heroku:  https://serene-temple-70979.herokuapp.com/
 
   
